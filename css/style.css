@@ -1,0 +1,9 @@
+input[type="text"] {
+  color: #5a5a5a;
+  font: normal 300 1.25em 'Lato', Helvetica, sans-serif;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
