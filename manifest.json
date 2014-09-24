@@ -1,11 +1,14 @@
 {
   "manifest_version": 2,
   "name": "Fix my Title",
-  "description": "Enter your titles and this extension will verify that they have proper capitalization and correct any errors!",
-  "version": "1.0",
-  
+  "description": "Enter your title and it will be corrected as you type!",
+  "version": "1.1",
+  "icons": {
+    "128": "img/icon.png"
+  },
   "browser_action": {
+    "default_title": "Fix my Title",
     "default_icon": "img/icon.png",
-    "default_popup": "popup.html"
+    "default_popup": "index.html"
   }
 }
