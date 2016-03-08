@@ -1,6 +1,10 @@
 # Fix my Title
 
-*2014 Ty-Lucas Kelley*
+by Ty-Lucas Kelley
+
+**NOTE**: This project is no longer maintained.
+
+---
 
 ### What is it?
 
